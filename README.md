@@ -33,7 +33,8 @@ Ce projet vise à pratiquer les bases de JavaScript à travers plusieurs exercic
        ###
       ####
      #####
-     ```
+  ```
+
 ### 2.3. Analyses de Données
 5. **script_4.js** : Manipulation d'un tableau d'entrepreneurs.
    - Filtre les entrepreneurs nés dans les années 70.

@@ -27,13 +27,10 @@ Ce projet vise à pratiquer les bases de JavaScript à travers plusieurs exercic
 
 4. **script_3.js** : Demande à l'utilisateur combien d'étages doit avoir la pyramide de Mario, puis l'affiche dans la console.
    - Exemple :
-     ```
      #
     ##
    ###
   ####
- #####
-     ```
 
 ### 2.3. Analyses de Données
 5. **script_4.js** : Manipulation d'un tableau d'entrepreneurs.
@@ -93,7 +90,7 @@ explorer.exe index.html
 Assurez-vous d'être dans le dossier contenant le fichier `index.html` avant de lancer la commande.
 
 ## Licence
-Ce projet est sous licence MIT. Cela signifie que vous êtes libre d'utiliser, de modifier et de distribuer ce projet, à condition de mentionner l'auteur original. Veuillez consulter le fichier `LICENSE` pour plus de détails.
+Ce projet est sous licence MIT. Cela signifie que vous êtes libre d'utiliser, de modifier et de distribuer ce projet, à condition de mentionner l'auteur original. 
 
 
 

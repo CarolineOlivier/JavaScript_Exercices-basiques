@@ -27,11 +27,13 @@ Ce projet vise à pratiquer les bases de JavaScript à travers plusieurs exercic
 
 4. **script_3.js** : Demande à l'utilisateur combien d'étages doit avoir la pyramide de Mario, puis l'affiche dans la console.
    - Exemple :
-     #
-    ##
-   ###
-  ####
-
+  ```
+         #
+        ##
+       ###
+      ####
+     #####
+     ```
 ### 2.3. Analyses de Données
 5. **script_4.js** : Manipulation d'un tableau d'entrepreneurs.
    - Filtre les entrepreneurs nés dans les années 70.

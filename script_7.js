@@ -16,7 +16,9 @@ function acneBot() {
         console.log("Pwa, calme-toi...");
     }
     // Vérifie si le message contient "Fortnite"
-    else if (userMessage.includes("Fortnite")) {
+    else if (userMessage.toUpperCase().includes("FORTNITE")) {   //Vérifie si le message de l'utilisateur (converti en majuscules) 
+        //contient le mot "FORTNITE"
+        // Si c'est le cas, l'exécution du bloc d'instructions associé à cette condition se fait
         console.log("on s' fait une partie soum-soum ?");
     }
     // Vérifie si le message est vide
